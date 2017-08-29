@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Blaine Wataru",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://techfolios.github.io/template/images/Blaine_Picture.jpg",
+    "email": "bwataru808@yahoo.com",
+    "phone": "808-285-8895",
+    "website": "https://blaine-wataru.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "",
+      "address": "1621 Dole St. Apt #303",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,42 +17,43 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "blaine-wataru",
+        "url": "https://github.com/blaine-wataru"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Blaine Wataru",
+        "url": "https://www.linkedin.com/in/blaine-wataru-475751146/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "techhui",
+        "username": "Blaine Musashi Wataru",
+        "url": "https://www.techhui.com/profile/BlaineMusashiWataru"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video Games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "PC",
+        "PS4"
       ]
     },
     {
-      "name": "data mining",
+      "name": "guitar",
       "keywords": [
+        "music"
+        "band"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Japan",
       "keywords": [
+        "history"
+        "media"
+        "Japanese"
+        "culture"
       ]
     }
   ],
