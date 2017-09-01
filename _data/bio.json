@@ -56,6 +56,13 @@
         "culture"
       ]
     }
+    {
+      "name": "Weightlifting",
+      "keywords": [
+        "gym",
+        "training"
+      ]
+    }  
   ],
   "skills": [
     {
@@ -66,8 +73,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Assembly"
       ]
     },
     {
@@ -75,91 +81,78 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux/Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2013-08-25",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": "Transcript available upon request."
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "International Structural Engineering and Construction Society",
+      "position": "Copyeditor",
+      "website": "https://www.isec-society.org/ISEC_PRESS/ISEC_09/",
+      "startDate": "2017-3-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Copyeditor for manuscripts submitted to ISEC conferences.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Copyedited manuscripts to fit ISEC guidelines.",
+        "Performed various odd jobs and testing for ISEC website."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "First Insurance Company of Hawaii",
+      "position": "HR Summer Intern",
+      "website": "https://www.ficoh.com/",
+      "startDate": "2015-6",
+      "endDate": "2015-8",
+      "summary": "Helped with various odd jobs in HR department.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted with FICOH company events and wellness programs.",
+        "Performed a variety of odd jobs, including scanning, flyer construction and printing, filing, and research."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Rewarded to students over a 3.5 GPA. Was awarded in both Spring and Fall 2016."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
