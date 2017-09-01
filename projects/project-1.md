@@ -25,6 +25,8 @@ Micromouse is an engineering competition held worldwide. Participants construct 
 
 As this was only our sophomore project, our goal was simply to create a mouse that could solve the maze in any amount of time. To do this, we chose a brute-force mouse design called a "Right-wall-hugger", which would make a right turn whenever the oppurtunity presented itself, in essence "hugging" the right wall. Unfortuantely. we weren't able to achieve this goal due to techinical difficulties on the software side of our project. The most we were able to achieve was a mouse that could make right turns and go straight. A lot of our thought process went into the hardware side, so we ended up with not enough time to properly develop the software side. We possibly could've scheduled time better to finish the hardware earlier or devoted more resources to the software side. The mouse's hardware was working correctly and designed fairly well, we were simply unable to complete the software side.
 
+Overall, I definitely learned a lot about developing hardware. I improved my soldering, wiring, and circuitry skills, learned how to design a robot, and learned how a project environment would work, particularly when left to our own devices.
+
 ### Schematics
 
 <img class="ui image" src="../images/Micromouse3.png">
