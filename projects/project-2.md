@@ -17,6 +17,8 @@ In ICS111, I, along with my partner Grace Jung, created a game of checkers with 
 
 My responsibility was primarily the game logic (regarding the valid movement of pieces, capturing logic, etc.) and debugging the code. It was particularly challenging to debug, as there were many fringe case bugs caused by incorrect logic, and our algorithm may or may not have been the optimal solution. Nevertheless, we managed to get the game working and debugged it as best we could, but there were possibly some other fringe cases that we did not encounter in our testing.
   
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: https://github.com/blaine-wataru/ICS111Checkers
+
 Dropbox: https://www.dropbox.com/s/9m2owgbckxr6d91/CheckersICS111.zip?dl=0
+
 Youtube Demo: https://www.youtube.com/watch?v=UQ0Owort4oQ
