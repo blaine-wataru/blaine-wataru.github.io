@@ -19,7 +19,7 @@ My responsibility was primarily the game logic (regarding the valid movement of 
 
 Links below: (May need [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr1) to run)
   
-[Source](https://github.com/blaine-wataru/ICS111Checkers)  
+[Github](https://github.com/blaine-wataru/ICS111Checkers)  
 
 [Dropbox](https://www.dropbox.com/s/9m2owgbckxr6d91/CheckersICS111.zip?dl=0)  
 
