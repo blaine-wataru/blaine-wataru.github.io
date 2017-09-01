@@ -6,19 +6,17 @@ title: Vacay
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Eclipse
+summary: A checkers game I developed in a team of 2 for ICS111.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In ICS111, I, along with my partner Grace Jung, created a game of checkers with help from [EZ](http://www2.hawaii.edu/~dylank/ics111/), provided to us. Our game follows the rules of Checkers to the letter, and is playable with 2 players only. This project helped me learn how to collaborate in a development environment, the basics of programming in Java, and how to design, develop, and debug games. Our project was selected as one of the best projects out of our ICS111 class.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
+My responsibility was primarily the game logic (regarding the valid movement of pieces, capturing logic, etc.) and debugging the code. It was particularly challenging to debug, as there were many fringe case bugs caused by incorrect logic, and our algorithm may or may not have been the optimal solution. Nevertheless, we managed to get the game working and debugged it as best we could, but there were possibly some other fringe cases that we did not encounter in our testing.
+  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Dropbox: https://www.dropbox.com/s/9m2owgbckxr6d91/CheckersICS111.zip?dl=0
+Youtube Demo: https://www.youtube.com/watch?v=UQ0Owort4oQ
