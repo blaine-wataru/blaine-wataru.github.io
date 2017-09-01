@@ -23,4 +23,4 @@ Source: https://github.com/blaine-wataru/ICS111Checkers
 
 Dropbox: https://www.dropbox.com/s/9m2owgbckxr6d91/CheckersICS111.zip?dl=0
 
-Youtube Demo: https://www.youtube.com/watch?v=UQ0Owort4oQ
+Youtube Demo: <div class="ui embed" data-source="youtube" data-id="UQ0Owort4oQ" ></div>
