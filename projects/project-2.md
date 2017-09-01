@@ -8,6 +8,8 @@ date: 2016
 labels:
   - Java
   - Eclipse
+  - Programming
+  - Game Development
 summary: A checkers game for 2 players I developed in a team of 2 for ICS111.
 ---
 
