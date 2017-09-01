@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Raiding2.png
+image: images/Raiding2.jpg
 title: FFXIV Raiding
 permalink: projects/raidleader
 date: 2016
