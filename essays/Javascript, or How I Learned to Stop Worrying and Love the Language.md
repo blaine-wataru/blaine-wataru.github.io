@@ -12,7 +12,7 @@ labels:
 
 ## Introduction
 
-Going into ICS 314, I knew nothing about JavaScript, and was only familiar with C/C++ and Java. The only thing that I knew was that it had the word Java in it, so maybe it was related to Java (not true, in actuality; JavaScript has nothing to do with Java). Doing some research, I learned it was a language primarily used in web development, and I was first exposed to it in ICS 314, where I picked up the basics with the help of [FreeCodeCamp](https://www.freecodecamp.org/)
+Going into ICS 314, I knew nothing about JavaScript, and was only familiar with C/C++ and Java. The only thing that I knew was that it had the word Java in it, so maybe it was related to Java (not true, in actuality; JavaScript has nothing to do with Java). Doing some research, I learned it was a language primarily used in web development, and I was first exposed to it in ICS 314, where I picked up the basics with the help of [FreeCodeCamp](https://www.freecodecamp.org/).
 
 ## Thought on JavaScript
 
