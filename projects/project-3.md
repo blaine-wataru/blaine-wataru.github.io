@@ -11,7 +11,7 @@ labels:
 summary: A brief summary of my experience as raid leader in FFXIV, where I learned management skills, punctuality, how to make mistakes and learn from them, and to never give up.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Raiding1.png">
 
 ## Introduction
 
@@ -32,9 +32,5 @@ Another thing I had to deal with as a raid leader was tensions created as a resu
 ## Summary
 
 In summary, I learned many management skills from raid leading, such as recruiting, scheduling, firing people, and keeping people in line, as well as other skills like communicating, learning from mistakes, not wasting people's time, and punctuality.
-
-An example of what a FFXIV raid requires:
-<div class="ui embed" data-source="youtube" data-id="jG6_S4MfRLw" >
-</div>
 
 
