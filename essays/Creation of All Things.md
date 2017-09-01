@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Creation
+title: Creation of All Things
 date: 2017-8-31
 labels:
   - Programming
