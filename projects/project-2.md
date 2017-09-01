@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Checkers Game
+permalink: projects/checkers
+date: 2016
 labels:
   - Java
   - Eclipse
