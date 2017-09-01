@@ -1,17 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/Raiding2.png
 title: FFXIV Raiding
 permalink: projects/raidleader
 date: 2016
 labels:
-  - Lisp
-  - GitHub
+  - FFXIV
+  - Raiding
+  - Management
+  - Communication
+  - Strategy/Analysis
 summary: A brief summary of my experience as raid leader in FFXIV, where I learned management skills, punctuality, how to make mistakes and learn from them, and to never give up.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Raiding1.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Raiding1.jpg">
 
 ## Introduction
 
