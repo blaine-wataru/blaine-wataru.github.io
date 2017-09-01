@@ -13,3 +13,5 @@ labels:
 **CURRENTLY IN PROGRESS**
 
 ## Introduction
+
+Javascript is kind of an interesting language. So far it seems to be simpler than Java, since things like type mismatch, main function, and classes don't really need to be accounted for. Due to the existence of let/const/var, the user doesn't need to declare types.
