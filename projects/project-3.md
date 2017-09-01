@@ -14,6 +14,7 @@ labels:
 summary: A brief summary of my experience as raid leader in FFXIV, where I learned management skills, punctuality, how to make mistakes and learn from them, and to never give up.
 ---
 
+<img class="ui floated rounded image" src="../images/Raiding1.jpg">
 <img class="ui image" src="{{ site.baseurl }}/images/Raiding1.jpg">
 
 ## Introduction
