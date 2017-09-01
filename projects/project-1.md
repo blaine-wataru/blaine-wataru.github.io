@@ -33,7 +33,7 @@ As this was only our sophomore project, our goal was simply to create a mouse th
 
 <img class="ui image" src="../images/Micromouse4.png">
   
-## Responsilbities
+## Responsibilities
 
 I was on the hardware side of our team. My job was primarily to construct the mouse, through usage of soldering, wiring, and circuitry, and developing a design for the mouse. We used a multi-tiered design which would allow easy access to the circuity for fixes and modification. The top layer was primarily the circuitboard, the middle layer held the sensors, and the bottom layer was the base, containing the motors and the wheels. 
 
