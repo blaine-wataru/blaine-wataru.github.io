@@ -10,7 +10,7 @@ labels:
   - MPLab
   - C/C++
 summary: My team developed a robotic mouse for the Micromouse competition as our Sophomore Project in Computer Engineering.
----0020
+---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
