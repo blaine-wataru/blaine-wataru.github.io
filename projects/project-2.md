@@ -23,7 +23,7 @@ My responsibility was primarily the game logic (regarding the valid movement of 
 
 ## Reflections
 
-I think it's possible that we could've developed a better algorithm for our board logic rather than having to run checks on each piece to see what valid squares it could move to, possibly something that coudld cut down on the fringe case bugs and have been more simpler to implement. I also would've liked to have had some more features, particularly displaying possible moves on the board, or an AI opponent. Overall, I learned a lot about game development, programming in Java, and collaboration.
+I think it's possible that we could've developed a better algorithm for our board logic rather than having to run checks on each piece to see what valid squares it could move to, possibly something that could cut down on the fringe case bugs and have been more simpler to implement. I also would've liked to have had some more features, particularly displaying possible moves on the board, or an AI opponent. Overall, I learned a lot about game development, programming in Java, and collaboration.
 
 ### Links below
   
