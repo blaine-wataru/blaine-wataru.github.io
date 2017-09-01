@@ -6,7 +6,8 @@ date: 2017-8-31
 labels:
   - Programming
   - Javascript
-  - Thinking
+  - Reflections
   - ICS314
 ---
 
+**CURRENTLY IN PROGRESS**
