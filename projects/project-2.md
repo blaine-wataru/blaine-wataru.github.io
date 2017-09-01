@@ -26,11 +26,10 @@ My responsibility was primarily the game logic (regarding the valid movement of 
 I think it's possible that we could've developed a better algorithm for our board logic rather than having to run checks on each piece to see what valid squares it could move to, possibly something that coudld cut down on the fringe case bugs and have been more simpler to implement. I also would've liked to have had some more features, particularly displaying possible moves on the board, or an AI opponent. Overall, I learned a lot about game development, programming in Java, and collaboration.
 
 ### Links below
-(May need [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr1) to run)
   
 [Github](https://github.com/blaine-wataru/ICS111Checkers)  
 
-[Dropbox](https://www.dropbox.com/s/9m2owgbckxr6d91/CheckersICS111.zip?dl=0)  
+[Dropbox](https://www.dropbox.com/s/9m2owgbckxr6d91/CheckersICS111.zip?dl=0) (May need [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr1) to run)
 
 Youtube Demo: 
 <div class="ui embed" data-source="youtube" data-id="UQ0Owort4oQ" >
