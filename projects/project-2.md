@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Checkers3.png
 title: Checkers Game
 permalink: projects/checkers
 date: 2016
