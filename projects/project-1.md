@@ -12,7 +12,7 @@ labels:
 summary: My team developed a robotic mouse for the Micromouse competition as our Sophomore Project in Computer Engineering.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/Micromouse1.png">
   <img class="ui image" src="../images/Micromouse2.png">
 </div>
