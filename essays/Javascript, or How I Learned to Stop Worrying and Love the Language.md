@@ -14,7 +14,7 @@ labels:
 
 Going into ICS 314, I knew nothing about JavaScript, and was only familiar with C/C++ and Java. The only thing that I knew was that it had the word Java in it, so maybe it was related to Java (not true, in actuality; JavaScript has nothing to do with Java). Doing some research, I learned it was a language primarily used in web development, and I was first exposed to it in ICS 314, where I picked up the basics with the help of [FreeCodeCamp](https://www.freecodecamp.org/).
 
-## Thought on JavaScript
+## Thoughts on JavaScript
 
 JavaScript is kind of an interesting language. So far it seems to be simpler than Java, since things like type mismatch, main function, and classes don't really need to be accounted for (although types and classes can be utilized). Due to the existence of let/const/var, the user doesn't need to declare types, which makes it easier and more intuitive to use. However, it's difficult to get a handle on the full capabilities of JavaScript as so far, I've only used it in simple ways for simple programs, and would have to get more experience with it to determine if it is a strong, functional language. However, I have taken a liking to it so far, and am interested to see its applications in relation to web development.
 
