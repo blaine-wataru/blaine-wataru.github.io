@@ -10,4 +10,5 @@ labels:
   - ICS314
 ---
 
+"There's no such thing as a stupid question." -Your mom/teacher, probably.
 
