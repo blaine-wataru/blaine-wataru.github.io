@@ -1,2 +1,1 @@
-#Do Stupid Questions Exist?
 
