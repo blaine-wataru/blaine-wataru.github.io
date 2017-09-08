@@ -13,7 +13,6 @@ labels:
 > "There's no such thing as a stupid question." -Your 5th grade teacher, probably.
 
 ## Introduction
-
 So I was reading [this amazing article](http://www.catb.org/esr/faqs/smart-questions.html) provided to our ICS314 class at UH Manoa, and I was thinking to myself the whole time, "YES! THIS IS EXACTLY HOW I FEEL!". After I finished reading it, I wanted to give my insight on "asking questions the smart way."
 
 A lot of people have probably told you that there's no such thing as a stupid question. This is only half true. Asking questions should be encouraged over staying silent and not asking, and therefore not knowing,  but there definitely are stupid questions that people should not ask, and I'm gonna tell you what they are.
