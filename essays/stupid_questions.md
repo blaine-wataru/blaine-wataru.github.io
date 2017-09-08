@@ -18,7 +18,6 @@ So I was reading [this amazing article](http://www.catb.org/esr/faqs/smart-quest
 A lot of people have probably told you that there's no such thing as a stupid question. This is only half true. Asking questions should be encouraged over staying silent and not asking, and therefore not knowing,  but there definitely are stupid questions that people should not ask, and I'm gonna tell you what they are.
 
 ## What is a stupid question?
-
 It would be foolish of me to rag on stupid questions without really explaining what I mean by that, wouldn't it? And there's nothing wrong with asking questions to learn, or for clarification, or any reason you would ask a question. What constitutes a stupid question is really *the manner in which it is asked.* In other words, there are no stupid questions, but there are stupid ways to ask them.
 
 Well, what's a stupid way to ask a question? A "dumb" question primarily consists of one or more of the following factors:
@@ -31,11 +30,9 @@ Well, what's a stupid way to ask a question? A "dumb" question primarily consist
 Most of these points illustrate one major thing: Don't look to be spoonfed the answer.  Whenever you are asking a question, always ask yourself this one question: *Do you want an answer, or do you want to learn?* If you just want an answer, and you say something like "Here's my code. It doesn't work. Fix it.", how does that help anyone? You learn nothing, and you irritate whoever you asked because they know you learn nothing. It's disrespectful, helps no one, and is honestly just downright lazy. When you ask a question this way, you check all 3 of these "dumb question factors". Don't do that. Don't be stupid.
 
 ## Well, show me! 
-
 Here's a couple excerpts from StackOverflow, which I hope will illustrate what constitutes a good or bad question.
 
 ### Bad Question
-
 These are a list of bad questions:
 
 1. [How to define a constructor outside class in Java?](https://stackoverflow.com/questions/32627456/how-to-define-a-constructor-outside-class-in-java)
