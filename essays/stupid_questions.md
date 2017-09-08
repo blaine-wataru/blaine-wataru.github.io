@@ -61,7 +61,7 @@ These are a couple good questions:
 In comparison to the bad questions, what do these questions do right?
 
 - **For Question 1+2:** Asker shows that he's investigated the problem by showing the steps he took to understand it, and is looking to understand the why. For question 1, asker also provides relevant code and data. Both askers specifically ask what they want to know.
-- **For Question 2:** Asker provides relevant data, code, and errors. Asker lists things he's tried and says he has already investigated StackOverflow to no avail. Asker is again specific about what he wants to know.
+- **For Question 3:** Asker provides relevant data, code, and errors. Asker lists things he's tried and says he has already investigated StackOverflow to no avail. Asker is again specific about what he wants to know.
 
 The quality of these questions' answers and comments is much higher. The answers are plentiful with very in-depth explanations and solutions, particularly for Questions 1 and 2. The comments section in Question 3 also consists of a lot of in-depth troubleshooting which was most likely very helpful for the asker. 
 
