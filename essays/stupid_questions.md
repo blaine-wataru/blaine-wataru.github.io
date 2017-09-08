@@ -10,7 +10,11 @@ labels:
   - ICS314
 ---
 
-> "There's no such thing as a stupid question." -Your mom, probably.
+> "There's no such thing as a stupid question." -Your 5th grade teacher, probably.
+
+## Introduction
+
+So I was reading [this amazing article](http://www.catb.org/esr/faqs/smart-questions.html) provided to our ICS314 class at UH Manoa, and I was thinking to myself the whole time, "YES! THIS IS EXACTLY HOW I FEEL!". After I finished reading it, I wanted to give my insight on "asking questions the smart way."
 
 A lot of people have probably told you that there's no such thing as a stupid question. This is only half true. Asking questions should be encouraged over staying silent and not asking, and therefore not knowing,  but there definitely are stupid questions that people should not ask, and I'm gonna tell you what they are.
 
@@ -20,7 +24,33 @@ It would be foolish of me to rag on stupid questions without really explaining w
 
 Well, what's a stupid way to ask a question? A "dumb" question primarily consists of one or more of the following factors:
 
-- The asker clearly didn't make any attempt to figure out the solution on their own, whether through their own testing/investigation, or searching for the answer through things like books or Google.
-- The asker is imprecises about what information they want. 
--
+- **The asker clearly didn't make any attempt to figure out the solution on their own.** The asker did not do any of their own testing/investigation, or search for the answer through resources like books or Google. Please make an attempt to figure it out yourself first. You might even get the answer and not have to ask the question at all.
+- **The asker is imprecise about what they want.** The question is often vague or confused, or asks for a different answer than the one the asker actually wants. Be precise about what you want when you ask your question.
+- **The asker makes it difficult for anyone to help them.** Again, the question is confused and difficult to understand, but also the necessary details may not be provided to allow people to help, and/or the asker will shoot down requests for further information. Add as many relevant details as you can, and work with the people helping you, not against them. It also helps to be straight and to the point, and avoid useless nonsense like "HELP PLS".
+- **The question is inappropriate.** Usually this is just asking the wrong people. Check to make sure you're asking your question in the right environment. For example don't pose low-level noobie questions in expert environments, or ask a Java expert questions about networking (the computer kind).
+
+Most of these points illustrate one major thing: Don't look to be spoonfed the answer.  Whenever you are asking a question, always ask yourself this one question: *Do you want an answer, or do you want to learn?* If you just want an answer, and you say something like "Here's my code. It doesn't work. Fix it.", how does that help anyone? You learn nothing, and you irritate whoever you asked because they know you learn nothing. It's disrespectful, helps no one, and is honestly just downright lazy. When you ask a question this way, you check all 3 of these "dumb question factors". Don't do that. Don't be stupid.
+
+## Well, show me! 
+
+Here's a couple excerpts from StackOverflow, which I hope will illustrate what constitutes a good or bad question.
+
+### Bad Question
+
+These are a list of bad questions:
+
+1. [How to define a constructor outside class in Java?](https://stackoverflow.com/questions/32627456/how-to-define-a-constructor-outside-class-in-java)
+2. [What is (int)?](https://stackoverflow.com/questions/25180631/what-is-int)
+3. [Is this JavaScript code OK?](https://stackoverflow.com/questions/43719039/is-this-javascript-code-ok)
+4. [Where are syntax errors am getting? (sic)](https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting)
+
+What's wrong with these questions? Well, let's break it down. These are all the problems that can be found in these questions:
+
+**For Question 1 + 2:** Answer could've easily been found by Googling. Very basic conceptual questions, and yet the asker does not ask for something like clarification or simplification, or show that they have done any research at all.
+**For Question 3:** Question is extremely vague both with what it wants and information provided. What does "OK code" mean? What does the asker want? What is the output? What is the goal of the program?
+**For Question 4:** Asker is unhelpful. Simply posts a huge block of code and a long error log, without explaining what he's tried or where he's stuck. Clearly just looking for correct code without caring why.
+
+By looking at the comments and the quality of answers the askers received, we can see these are bad questions. Many answers were one-liners and don't go into depth at all, with only a couple answers in total. Comments are scathing, where some people even say nothing more than "google it". One answer is even nothing more than corrected code without any attempt to explain it. If you ask stupid questions, this is what you will receive on average. Avoid this so you can get good responses.
+
+### Good Question
 
