@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards: Arbitrary Nonsense or Readable Perfection?
+title: Coding Standards, Arbitrary Nonsense or Readable Perfection?
 date: 2017-9-7
 labels:
   - Coding Standard
