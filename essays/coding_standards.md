@@ -17,7 +17,7 @@ In our ICS314 class, we have in-class WODs (see my [initial essay] (https://gith
 
 I failed it. Do you wanna know why? This fragment of code is why:
 
-'''
+```
 return _.first(word) + '-' + _.first(word) + '-' + word; 
-'''
+```
 
