@@ -9,8 +9,15 @@ labels:
   - ICS314
 ---
 
-** Introduction
+## Introduction
 Coding Standards make no sense. There I said it. "But Blaine, coding standards allow us dvelopers to have a standard for readable code!", you might say. And you'd be right. Kinda.
 
-** Story Time!
-In our ICS314 class, we have in-class WODs [see my initial essay for details](https://github.com/blaine-wataru/blaine-wataru.github.io/blob/master/essays/JavaScript_Thoughts.md)
+## Story Time!
+In our ICS314 class, we have in-class WODs (see my [initial essay] (https://github.com/blaine-wataru/blaine-wataru.github.io/blob/master/essays/JavaScript_Thoughts.md) for details). In a nutshell, we do all-or-nothing programming exercises on Thursdays. Our objective was to change a normal array of string to one with "stutters" (e.g. "apple" -> "a-a-apple"). The main point of it was to follow ESLint coding standards.
+
+I failed it. Do you wanna know why? This fragment of code is why:
+
+'''
+return _.first(word) + '-' + _.first(word) + '-' + word; 
+'''
+
