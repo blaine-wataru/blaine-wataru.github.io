@@ -28,11 +28,11 @@ What error did I get in IntelliJ? "Unexpected String concatenation (prefer-templ
 
 So, I looked it up and found [this](https://eslint.org/docs/rules/prefer-template), and tried something like this:
 ```
-return '${_.first(word)} - ${_.first(word)} - ${word}'
+return '${_.first(word)}-${_.first(word)}-${word}'
 ```
 Seems like a reasonable attempt, doesn't it? Wrong. The editor told me I was disallowed to use curly braces in strings. That doesn't make any sense, right? If the example showed I needed to use curly braces inside the single quotes, why was I being denied usage of it here? I later came to the conclusion that Underscore functions weren't allowed in the '${}' notation (if I'm wrong about this please correct me!) when I saw the solution was:
 ```
-return '${word[0]} - ${word[0]} - ${word}
+return '${word[0]}-${word[0]}-${word}
 ```
 How is anyone supposed to know Underscore was not allowed in this format when it is not documented in any way? And furthermore, why does it matter? Is there anything wrong in particular with using _.first over word[0]? ESLint doesn't seem to be able to tell me, that's for sure.
 
