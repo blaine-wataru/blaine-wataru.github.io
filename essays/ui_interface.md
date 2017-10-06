@@ -19,10 +19,8 @@ Semantic UI is one of many toolsets known as UI Frameworks. It shares this title
 
 ## Why Use UI Frameworks?
 
-Why should I use a UI Framework? What benefit does it give me over raw HTML and CSS? Am I going to be annoyed learning something new? Let's tackle all these questions right now!
+Why should I use a UI Framework? What benefit does it give me over raw HTML and CSS? Am I going to be annoyed learning something new? Let's tackle all these questions right now! (NOTE: The developers at Semantic UI are not paying me, although that would be really nice. If you guys are reading this, send me free stuff!)
 
 # Pros
-**+ Semantic UI is actually really easy to learn.** 
+**Semantic UI is actually really easy to learn.** Semantic UI uses intuitive natural language 
 
-+ 
-+
