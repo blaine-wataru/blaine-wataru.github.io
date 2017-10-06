@@ -23,5 +23,6 @@ Why should I use a UI Framework? What benefit does it give me over raw HTML and 
 
 # Pros
 **+ Semantic UI is actually really easy to learn.** 
+
 + 
 +
