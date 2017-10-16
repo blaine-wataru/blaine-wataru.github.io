@@ -73,7 +73,11 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly"
+        "Assembly",
+        "LISP",
+        "HTML",
+        "CSS",
+        "Semantic UI"
       ]
     },
     {
