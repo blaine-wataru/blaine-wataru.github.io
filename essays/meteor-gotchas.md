@@ -25,8 +25,6 @@ While Meteor is a great tool, I did have a couple of problems, that I assume are
 ### Problem 1
 The first, and major problem involved Meteor runtimes. There was a particular case in my ICS314 class involving an exercise called [Digits](http://courses.ics.hawaii.edu/ics314f17/morea/meteor-2/experience-meteor-digits-1.html).  I had trouble running a meteor create command on this exercise in the apps folder: it took over 20 MINUTES. That's a long time. A REALLY long time. 
 
-I later found that Meteor was 
-
 Actually, that was my only problem. I know I said there were a number of problems, but I honestly had no troubles outside of this issue. SO in conclusion, Meteor, fix your Windows version/
  
 
