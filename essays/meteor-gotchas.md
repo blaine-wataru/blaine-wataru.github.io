@@ -23,8 +23,12 @@ If you're not familiar, Meteor is a web application development tool used in con
 While Meteor is a great tool, I did have a couple of problems, that I assume are specific to the Windows version of Meteor, and I will be talking about my experiences with them below. Some of them I solved, and some I didn't.
 
 ### Problem 1
-The first, and major problem involved Meteor runtimes. There was a particular case in my ICS314 class involving an exercise called [Digits](http://courses.ics.hawaii.edu/ics314f17/morea/meteor-2/experience-meteor-digits-1.html).  I had trouble running a meteor create command on this exercise in the apps folder: it took over 20 MINUTES. That's a long time. A REALLY long time. 
+The first, and major problem involved Meteor runtimes. There was a particular case in my ICS314 class involving an exercise called [Digits](http://courses.ics.hawaii.edu/ics314f17/morea/meteor-2/experience-meteor-digits-1.html).  I had trouble running a meteor create command on this exercise in the apps folder: it took over 20 MINUTES. That's a long time. A REALLY long time. In particular, the command got stuck at extracting packages for 10+ minutes at a time, several times throughout the command.
 
-Actually, that was my only problem. I know I said there were a number of problems, but I honestly had no troubles outside of this issue. SO in conclusion, Meteor, fix your Windows version/
+I later found that this was due to a bug in Meteor. Apparently, the major issue was the version of 7zip included in Meteor. It was outdated. The version included was for the 32-bit version of Windows, and Windows 10 is a 64-bit OS, so the discrepancy created a major slowdown when trying to extract files. After replacing that version of 7zip, the meteor create commands ran much faster in comparison.
+
+## Conclusion
+
+Actually, that was my only problem. I know I said there were a number of problems, but I honestly had no troubles outside of this issue. So in conclusion, Meteor, fix your Windows version.
  
 
