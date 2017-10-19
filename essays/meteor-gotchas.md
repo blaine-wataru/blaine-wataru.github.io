@@ -14,6 +14,7 @@ Meteor. While the name sounds incredibly awesome, there are a couple things that
 
 ## What is Meteor?
 
-If you're not familiar, Meteor is a web application development tool used in constructing, well, web apps. It's primarily run through the command line. 
+If you're not familiar, Meteor is a web application development tool used in constructing, well, web apps. It's primarily run through the command line and developed through a text editor or IDE. Meteor is helpful for compiling a bunch of html, js, and css files in order to construct your web app in real time, as you develop. You can download [Meteor](https://www.meteor.com/) if you want to try it for yourself.
+
 
 
