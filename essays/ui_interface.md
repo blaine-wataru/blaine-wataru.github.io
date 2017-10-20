@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Why You Should Think About Using Semantic UI
-date: 2017-10-5
+date: 2017-10-05
 labels:
   - Semantic UI
   - User Interface
