@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Do Stupid Questions Exist?
-date: 2017-9-7
+date: 2017-09-07
 labels:
   - Stupid
   - Questions
