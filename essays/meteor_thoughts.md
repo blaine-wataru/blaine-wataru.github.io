@@ -1,0 +1,13 @@
+---
+layout: essay
+type: essay
+title: The Tunguska Event of Web Development (or How I Learned to Use Meteor)
+date: 2017-10-19
+labels:
+  - Software Engineering
+  - Meteor
+  - Web Application
+  - Client
+  - Server
+---
+
