@@ -18,8 +18,13 @@ labels:
 ## Thoughts?
 
 ### Pros
+- Reloads in real time
+- MongoDB is very simple and easy to use
+
 
 ### Cons
+- Command line is confusing, would prefer an actual desktop client
+- Really slow and inefficient
 
 ## Conclusions
 
