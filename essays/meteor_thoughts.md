@@ -44,7 +44,7 @@ What did you think about Meteor, Blaine? Well, to be quite honest, I don't know.
 
 ### Cons
 - **Command line is confusing.** But wait, didn't you say the command line was cool? I did say that, but it also can be confusing. The problem with using command line is that it's a lot harder to figure out what you're doing. If you don't know how to use Meteor, you can't fiddle with the UI to find out what does what. You have to look up commands, and memorize them. Command line also sort of lacks the feedback and ease of access that you would get when using a Desktop client of some sort.
-- **Really slow and inefficient.** This was my main problem with Meteor.
+- **Really slow and inefficient.** This was my main problem with Meteor. IT. IS. SO. SLOW. Even using a $1000+ laptop with a 2.7 GHz Processor and 12GB of RAB (although maybe a SSD would help), and fixing the package issue I had, Meteor still takes about 3-5 minutes or so to just get up and running. It makes jumping in for quick development sessions much more of a chore than it needs to be. This doesn't seem to be much of an issue on Unix-based Operating Systems, however, but we can at least say that Windows Meteor is much slower than it has any right being. Every time I run Meteor as well with "meteor npm run start", Meteor seems to be downloading and building packages each time, which just seems like a huge inefficiency to me. But perhaps this is not a real issue, as I don't understand enough about the meteor run process to look at optimizing it.
 
 ## Conclusions
 
