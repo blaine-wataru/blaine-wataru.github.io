@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Tunguska Event of Web Development (or How I Learned to Use Meteor)
-date: 2017-10-19
+date: 2017-10-26
 labels:
   - Software Engineering
   - Meteor
@@ -48,4 +48,4 @@ What did you think about Meteor, Blaine? Well, to be quite honest, I don't know.
 
 ## Conclusions
 
-
+In conclusion, I'd like to say that Meteor is a great platform for web development. I thought it was interesting to use, although complex with a lot of layers to it that I probably couldn't have figured out without templates and lots of tutorials. It has good aspects to it like MongoDB and the real-time reloading, but issues with its runtimes and intuitiveness. Primarily, I'd like for the Meteor development team to fix their Windows version, so nobody has to go through weeks of Meteor not working like that one poor girl had to deal with. Windows' lives matter.
