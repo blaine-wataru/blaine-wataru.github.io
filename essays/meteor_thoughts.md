@@ -35,16 +35,16 @@ I ended up getting Meteor to work properly in it's intended form, and as I becam
 
 ## Thoughts?
 
-
+What did you think about Meteor, Blaine? Well, to be quite honest, I don't know. I don't have as much experience as I'd like, so my opinion might not be as relevant as that of someone more experienced and skilled that I am. For example, since I've only worked with Meteor, I have no frame of reference. But I'm gonna give you my insight anyway, and hopefully you'll learn something from it.
 
 ### Pros
-- Reloads in real time
-- MongoDB is very simple and easy to use
-
+- **Meteor reloads in real time.** No compiling (which means no makefiles, no scripts, no keyboard shortcuts), no saving, no refreshing the page, no loading files from a text editor into a client. Meteor reloads in real time so I can see my changes right away. This saves a lot of time that I would otherwise spend on nonsense.
+- **MongoDB is very simple and easy to use.** I can easily work with databases without having to worry about learning something more complex like SQL. Commands for manipulating the database are very intuitive and easy to use, no experience necessary.
+- **Command line is kinda fun.** This isn't a real pro, but I just thought using the command line to assist with development was interesting and made me feel really cool (don't make fun of me!).
 
 ### Cons
-- Command line is confusing, would prefer an actual desktop client
-- Really slow and inefficient
+- **Command line is confusing.** But wait, didn't you say the command line was cool? I did say that, but it also can be confusing. The problem with using command line is that it's a lot harder to figure out what you're doing. If you don't know how to use Meteor, you can't fiddle with the UI to find out what does what. You have to look up commands, and memorize them. Command line also sort of lacks the feedback and ease of access that you would get when using a Desktop client of some sort.
+- **Really slow and inefficient.** This was my main problem with Meteor.
 
 ## Conclusions
 
