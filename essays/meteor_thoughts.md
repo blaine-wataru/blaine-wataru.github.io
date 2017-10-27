@@ -19,7 +19,11 @@ That's super interesting and all, but what does any of that have to do with [Met
 
 ## Getting Started
 
+When I first downloaded Meteor, I didn't know what to expect. Was Meteor an IDE like IntelliJ or Eclipse ? Was it a client that compiler like gcc or CLISP? Or was it something else entirely? When I downloaded and installed Meteor, I heard from my ICS314 professor that one person had failed to get Meteor running for *weeks.* **WEEKS.** Was that going to be me? What if it was? Was I just going to be royally and completely screwed?
 
+Turns out, that wasn't me. I got Meteor running pretty quickly with virtually no hiccups whatsoever. Or so I thought.
+
+As I began learning Meteor, I began to notice that it was slow. Like *REALLY* slow.
 
 ## Thoughts?
 
