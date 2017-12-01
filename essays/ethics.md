@@ -32,7 +32,9 @@ Now that we've defined ethics, let's talk about two specific cases of online har
 
 ## Why did it happen?
 
+People have always bullied and harassed each other for as long as civilized society has existed, but it's definitely made a rise in modern society with the advent of social media and the internet. People who have never met or interacted before sling mud over the internet in the worst way possible. Things like doxxing, death threats, blackmail, and such were never as widespread as they are today. Bullying and harassment has stepped up its game in a way never seen before. But why?
 
+A major part of the reason harassment exists online in the form it does is due to the anonymity of the internet. 
 
 
 
