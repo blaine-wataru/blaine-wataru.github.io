@@ -40,7 +40,7 @@ That isn't the only reason anonymity breeds harassment. Anonymity also hides the
 
 ## Whose fault is it?
 
-Ignoring the obvious, is there anything the developers of platforms that allowed this to happen could've done? Could Twitter have done anything to prevent this behavior? What about Facebook? Or Twitch? Well...yes and no. The issue is not really that black and white, and arguments can be made for either side.
+Ignoring the obvious, is there anything the developers of platforms that allowed this to happen could've done? Could Twitter have done anything to prevent this behavior? What about Facebook? Or Twitch? Well...yes and no. The issue is not really that black and white, and arguments can be made for either side. To be honest, I'm not even sure which side is right, but here are the arguments I've thought of for both sides.
 
 ### Yes!
 
