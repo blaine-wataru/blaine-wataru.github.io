@@ -50,7 +50,15 @@ Companies can increase their crackdown on harassment. It's important for every s
 
 People are jerks and dealing with harassment is impossible from a technical standpoint. How can a team moderate everything that gets posted? How does the team breed a culture that doesn't tolerate harassment? And if the team automates the process, how do you prevent unfair bannings? How does the algorithm differentiate an inside joke among friends from a cyberbullying circle? How do you differentiate legitimate cases from people attempting to ban others for kicks? And even if the right people are banned, how does the team prevent them from just making another account and continuing on with their business?
 
+It also can be argued that it isn't really the responsilibity of tech companies and software engineers to deal with societal issues. Online harassment comes from deep-seated real-life social issues that can't just be swept under a rug. Even though it happens online, people's real feelings create this harassment, so it would take societal changes to really see the eradication of harassment.
+
 ## So what can we do?
+
+Honestly, I'd say the best way to curb online harassment is to introduce real and tangible consequences for doing so. However, the only way this could happen would most likely be to remove anonymity from the internet. When people's real-life profiles are linked to their online profiles, it means that if anyone was permanently banned, it would really mean they were permanently banned (no alternate accounts). It would also mean anyone could see what kind of things you say to people, and it would affect your real life reputation if you were to participate in online harassment. 
+
+On the other hand, what kind of world would we live in if the internet wasn't anonymous? Personal information would be rampant, making it really easy to doxx anyone. Anyone who already faces real life social issues would have no safe haven. Under the internet's anonymity, everyone is equal, but without it, gender, race, and socioeconomic standing begin to seep back into the internet. So it's kind of a catch-22, really. If people are anonymous, there are no consequences for harassers, but there's also no protection from those same harassers either. 
+
+So what can we do then, as software engineers? The best I can say is try to speak out against online harassment, enforce zero tolerance as best you can with powerful moderation teams and tools, and maybe one day the world will change and we won't have to deal with this problem anymore.
 
 
 
