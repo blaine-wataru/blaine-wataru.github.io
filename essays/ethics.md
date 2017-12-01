@@ -40,7 +40,15 @@ That isn't the only reason anonymity breeds harassment. Anonymity also hides the
 
 ## Whose fault is it?
 
-Ignoring the obvious, is there anything the developers of platforms that allowed this to happen could've done? Could Twitter have done anything to prevent this behavior? What about Facebook? Or 
+Ignoring the obvious, is there anything the developers of platforms that allowed this to happen could've done? Could Twitter have done anything to prevent this behavior? What about Facebook? Or Twitch? Well...yes and no. The issue is not really that black and white, and arguments can be made for either side.
+
+### Yes!
+
+Companies can increase their crackdown on harassment. It's important for every social media platform to have strong moderation teams that do not tolerate any sort of harassment. A lot of people who use these platforms for harassment are often not punished or dealt with in any significant way, or if they are, it's often way too late, after the damage is already done. It's important that these companies create a culture on their platforms that doesn't tolerate hate speech and harassment.
+
+### No!
+
+People are jerks and dealing with harassment is impossible from a technical standpoint. How can a team moderate everything that gets posted? How does the team breed a culture that doesn't tolerate harassment? And if the team automates the process, how do you prevent unfair bannings? How does the algorithm differentiate an inside joke among friends from a cyberbullying circle? How do you differentiate legitimate cases from people attempting to ban others for kicks? And even if the right people are banned, how does the team prevent them from just making another account and continuing on with their business?
 
 ## So what can we do?
 
