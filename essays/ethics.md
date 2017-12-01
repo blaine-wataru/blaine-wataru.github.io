@@ -34,9 +34,15 @@ Now that we've defined ethics, let's talk about two specific cases of online har
 
 People have always bullied and harassed each other for as long as civilized society has existed, but it's definitely made a rise in modern society with the advent of social media and the internet. People who have never met or interacted before sling mud over the internet in the worst way possible. Things like doxxing, death threats, blackmail, and such were never as widespread as they are today. Bullying and harassment has stepped up its game in a way never seen before. But why?
 
-A major part of the reason harassment exists online in the form it does is due to the anonymity of the internet. 
+A major part of the reason harassment exists online in the form it does is due to the anonymity of the internet. The anonymity of the internet breeds a relatively consequence-free environment where people can say or do as they please without being linked to their image in real life. There's no real threat of retaliation (banning and verbal retaliation doesn't really deter people), and no permanent image or account they need to protect (as anyone banned from anything can easily circumvent it with other accounts and proxies, and easily pretend to be someone else to shed their negative reputation), so harassment naturally comes out as people are essentially allowed to do whatever they want.
 
+That isn't the only reason anonymity breeds harassment. Anonymity also hides the recipient of the harassment. Since people are not interacting directly, a lot of times many people will subconciously disconnect the person behind the keyboard and the target of their harassment, making it easier to justify their behavior to themselves. In general, a lot of people would never do the same kind of thing in real life to an actual person as they would over the internet.
 
+## Whose fault is it?
+
+Ignoring the obvious, is there anything the developers of platforms that allowed this to happen could've done? Could Twitter have done anything to prevent this behavior? What about Facebook? Or 
+
+## So what can we do?
 
 
 
