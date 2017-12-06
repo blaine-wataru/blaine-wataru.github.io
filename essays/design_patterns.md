@@ -4,8 +4,8 @@ type: essay
 title: Design Patterns and How You Can Stand on the Shoulders of Giants
 date: 2017-12-06
 labels:
-  -design
-  -patterns
+  - design
+  - patterns
 ---
 
 ## Introduction to Design Patterns
