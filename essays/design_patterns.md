@@ -40,7 +40,7 @@ As you can see, design patterns pop up quite often when developing any sort of p
 
 For example, if you were looking to iterate through a collection, you might rack your brain attempting to look for a solution to implement it. Instead of doing that, you can check out the [Iterator](https://sourcemaking.com/design_patterns/iterator) design pattern and follow the steps presented there to give you a basic jumping-off point for developing your program.
 
-## Beware
+## Beware...
 
 However, there are some things you need to be aware of when using design patterns.
 
