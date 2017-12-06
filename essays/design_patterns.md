@@ -22,7 +22,7 @@ Of course, this is kind of a gross oversimplification of the nature of design pa
 
 > "OK, you've convinced me. Design patterns are great. But how do I use them?" -You, probably.
 
-If design patterns
+
 
 
 
