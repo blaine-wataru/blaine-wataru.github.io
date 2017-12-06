@@ -25,17 +25,34 @@ Of course, this is kind of a gross oversimplification of the nature of design pa
 In order to show you how to use design patterns, I first want to show you how I used design patterns in developing my own app: [CampusBeats](https://github.com/campusbeats/campusbeats), an app to allow UH Manoa students to connect with each other musically. You can view the GitHub Page [here.](https://campusbeats.github.io/) In this app, I used the following design patterns:
 
 - JavaScript
-  - Prototype for the Class construction 
+  - **Prototype** for the Class construction 
 - Meteor
-  - Observer for the publish/subscribe methodology 
-  - MVC for MongoDB, Blaze, and FlowRouter
-  - Front Controller for FlowRouter 
+  - **Observer** for the publish/subscribe methodology 
+  - **MVC** for MongoDB, Blaze, and FlowRouter
+  - **Front Controller** for FlowRouter 
 - CampusBeats
-  - Singleton, Factory Iterator, Template Method
+  - **Singleton** for Collections
+  - **Factory** for define methods
+  
+As you can see, design patterns pop up quite often when developing any sort of program or application. You can use the methodology of design patterns to approach any sort of problem that has already been solved by programmers who came before you.
 
+For example, if you were looking to iterate through a collection, you might rack your brain attempting to look for a solution to implement it. Instead of doing that, you can check out the [Iterator](https://sourcemaking.com/design_patterns/iterator) design pattern and follow the steps presented there to give you a basic jumping-off point for developing your program.
 
+## Beware
 
+However, there are some things you need to be aware of when using design patterns.
 
+1. **You might not understand exactly what you're doing.** Copying doesn't necessarily lead to understanding. It is important to take the steps to understand why the design pattern works for your problem, or even understand that there may be a more efficient solution for the same problem.
+
+2. **Don't feel like you have to cram as many design patterns as possible into your program.** Sometimes design patterns simply don't apply to what you're doing, or it may be easier to take a straightforward approach to the problem and solve it directly rather than attempting to pidgeonhole it into a design pattern. In practice, design patterns are not always relevant, and if you feel it is not so, it probably isn't.
+
+3. **Design patterns don't work the same way for each language.** Some languages don't use design patterns the same way as others. For example, how do you apply a design pattern involving classes or objects to a language that doesn't use them?
+
+4. **Design patterns are not the end all be all of programming.** Sometimes design patterns are more of an inspiration than an actual implementation. The pattern may not be the best solution for your specific problem, even though your problem may fall under or be related to that specific design pattern.
+
+## Conclusion
+
+In conclusion, design patterns can be great for saving time on solving programming problems by applying solution paradigms that already exist rather than coming up with the ideas on your own. However, it is easy to fall into the trap of being "trigger-happy" with design patterns and searching to apply them everywehre you can rather than only when they are relevant. It is important to make this distinction when developing with design patterns, or your code may end up rather haphazard, inefficient, and difficult to understand as compared to a program that was developed in a more straightforward matter. Design patterns can be useful, but only when applied properly in the context to what you are attempting to accomplish.
 
 
 
