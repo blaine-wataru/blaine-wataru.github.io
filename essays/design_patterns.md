@@ -18,7 +18,12 @@ Then let's say later down the line, some other guy wants to do the same thing yo
 
 Of course, this is kind of a gross oversimplification of the nature of design patterns, but it gets the concept across. Design patterns can be compared to keys and chord progressions in music. For example, a typical upbeat happy song might use something like the key of C or G, which are particularly keys that contain happy notes, and a I IV V chord progression, which makes the chords C/F/G to form the basic framework of your song. These musical tools are like design patterns because they are tools created by people who already solved the problem of "reading a file line by line," or "writing a happy song," so why not use what they know to solve the same problem instead of having to waste time thinking about a problem that already has a solution?
 
-## 
+## How do I use design patterns?
+
+> "OK, you've convinced me. Design patterns are great. But how do I use them?" -You, probably.
+
+If design patterns
+
 
 
 
