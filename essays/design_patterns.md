@@ -10,7 +10,7 @@ labels:
 
 ## Introduction
 
-At some point when reading this essay, it may be beneficial to [familiarize yourself](https://sourcemaking.com/design_patterns) with the different types of design patterns.
+At some point when reading this essay, it may be beneficial to [familiarize yourself](https://sourcemaking.com/design_patterns) with the different types of design patterns. I'm not gonna explain each pattern individually, as that's not what I want to talk about here, but rather I want to help you understand what design patterns are conceptually, and why you should (or shouldn't) use design patterns in your own software development process.
 
 Back in the old days of programming, when no one knew anything about anything, people solved problems in their own ways, using their own methodology and ideas, sort of how you and me did starting out. If someone asked you to make a basic program that, for example, pulled information from a file line by line, you'd maybe think after some time: "I can use a for loop to go through the file line by line and save that information to an array!" And you'd be right.
 
