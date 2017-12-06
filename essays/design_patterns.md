@@ -4,8 +4,10 @@ type: essay
 title: Design Patterns and How You Can Stand on the Shoulders of Giants
 date: 2017-12-06
 labels:
-  - design
-  - patterns
+  - Design patterns
+  - Campusbeats
+  - Gang of Foure
+  - Software Engineering
 ---
 
 ## Introduction to Design Patterns
