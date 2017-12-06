@@ -22,6 +22,17 @@ Of course, this is kind of a gross oversimplification of the nature of design pa
 
 > "OK, you've convinced me. Design patterns are great. But how do I use them?" -You, probably.
 
+In order to show you how to use design patterns, I first want to show you how I used design patterns in developing my own app: [CampusBeats](https://github.com/campusbeats/campusbeats), an app to allow UH Manoa students to connect with each other musically. You can view the GitHub Page [here.](https://campusbeats.github.io/) In this app, I used the following design patterns:
+
+-JavaScript
+  -Prototype for the Class construction 
+-Meteor
+  -Observer for the publish/subscribe methodology 
+  -MVC for MongoDB, Blaze, and FlowRouter
+  -Front Controller for FlowRouter 
+-CampusBeats
+  Singleton, Factory Iterator, Template Method
+
 
 
 
