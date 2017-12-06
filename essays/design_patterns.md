@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Anonymity and the Internet
-date: 2017-12-6
+date: 2017-12-06
 labels:
   -design
   -patterns
