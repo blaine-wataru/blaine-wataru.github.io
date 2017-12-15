@@ -37,7 +37,9 @@
       "name": "Video Games",
       "keywords": [
         "PC",
-        "PS4"
+        "PS4",
+        "3DS",
+        "Switch"
       ]
     },
     {
@@ -75,6 +77,9 @@
         "Javascript",
         "Assembly",
         "LISP",
+        "Prolog",
+        "Perl",
+        "Meteor",
         "HTML",
         "CSS",
         "Semantic UI"
@@ -84,10 +89,10 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Mac OS X",
         "Linux/Unix",
         "Git/GitHub",
-        "Windows"
+        "Windows 10"
       ]
     }
   ],
