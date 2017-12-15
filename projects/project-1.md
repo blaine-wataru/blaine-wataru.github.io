@@ -34,7 +34,7 @@ In doing this project, I strongly developed my software engineering and developi
 You can view my issues I worked on [here](https://github.com/campusbeats/campusbeats/issues?q=is%3Aissue+is%3Aclosed), but we also did a lot of collaborating and helped each other out if someone got stuck on their own issue. In summary, I was primarily involved with coding the backend of the web app in JavaScript. I implemented the calendar and search algorithm, added the collections and collection logic, and worked together with my team to design the admin controls. I also drew up our basic designs and layouts for our web app, which Innika then realized into our final webpage designs, but I mostly ended up working on the JavaScript backend of the app rather than the page design involving HTML, CSS, and Semantic UI.
 
 The pages I developed:
-<div class="ui large rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="../images/profilepageM2.png">
   <img class="ui image" src="../images/beatspageM2.png">
   <img class="ui image" src="../images/calendarpageM2.png">
