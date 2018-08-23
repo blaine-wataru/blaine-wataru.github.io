@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "Blaine Wataru",
         "url": "https://www.linkedin.com/in/blaine-wataru-475751146/"
-      },
+      }
     ]
   },
   "interests": [
@@ -59,35 +59,23 @@
         "gym",
         "training"
       ]
-    }  
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "LISP",
-        "Prolog",
-        "Perl",
-        "Meteor",
-        "HTML",
-        "CSS",
-        "Semantic UI"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
       "keywords": [
         "Mac OS X",
         "Linux/Unix",
-        "Git/GitHub",
-        "Windows 10"
+        "Git/GitHub"
       ]
     }
   ],
@@ -104,15 +92,29 @@
   ],
   "work": [
     {
+      "company": "Information Technology Services at University of Hawaii at Manoa",
+      "position": "Software Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "2018-2-28",
+      "endDate": "Present",
+      "summary": "Worked primarily on the UHGroupings API, which is based off and uses Internet2's Grouper API.",
+      "highlights": [
+        "Implemented  a new REST API to better reflect RESTful concepts.",
+        "Wrote multitudes of test code, and performed bug fixes to ensure the codebase runs properly.",
+        "Developed new API functionalities including the ability to get user's attributes based on their username."
+      ]
+    },
+    {
       "company": "International Structural Engineering and Construction Society",
-      "position": "Copyeditor",
-      "website": "https://www.isec-society.org/ISEC_PRESS/ISEC_09/",
+      "position": "Lead Copyeditor",
+      "website": "https://www.isec-society.org/index.php",
       "startDate": "2017-3-20",
       "endDate": "Present",
-      "summary": "Copyeditor for manuscripts submitted to ISEC conferences.",
+      "summary": "Copyedit manuscripts for various ISEC conferences.",
       "highlights": [
         "Copyedited manuscripts to fit ISEC guidelines.",
-        "Performed various odd jobs and testing for ISEC website."
+        "Performed various odd jobs and testing for ISEC website.",
+        "Managed all final edited versions of manuscripts before they were sent to printer."
       ]
     },
     {
@@ -131,10 +133,10 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2016",
+      "date": "2016-2018",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Rewarded to students over a 3.5 GPA. Was awarded in both Spring and Fall 2016."
-    },
+      "summary": "Rewarded to students over a 3.5 GPA. Was awarded in both Spring and Fall 2016, Fall 2017, and Spring 2018."
+    }
   ],
   "references": [
     {
