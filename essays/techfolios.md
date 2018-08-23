@@ -35,7 +35,7 @@ Techfolio Designer, as it is still under development, can definitely be improved
 
 I also noticed that Live Reload doesn't seem to be implemented, at least on my machine, as I made a mild change to my local version of the project, and had to restart the application to see it.
 
-### Improving Techfolio Designer
+## My Future with Techfolio Designer
 Hopefully as a new developer of Techfolio Designer, I can contribute to the project in a significant way. I am primarily interested in doing backend development, perhaps implementing new features, or writing the test code that this project desperately needs. I also would possibly be interested in improving the usability and clarity of Techfolio Designer to better allow both developers and users to work with the application.
 
 
