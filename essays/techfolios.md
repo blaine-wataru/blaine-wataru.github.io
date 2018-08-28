@@ -10,6 +10,7 @@ labels:
   - Experience
   - ICS 491
 ---
+
 ## Introduction
 Back in my ICS 314 (Software Engineering) class in Fall 2017, I was tasked with building a portfolio online by forking [Techfolios](https://github.com/techfolios/template) and modifying the files myself. This was rather cumbersome and error-prone due to needing to follow specific non-obvious formats, and directly interact with the file base. 
 
