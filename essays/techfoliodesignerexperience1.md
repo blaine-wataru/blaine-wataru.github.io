@@ -32,8 +32,8 @@ I couldn't create a seperate LastModified component that updated when either the
 
 ### Add menu item to Config menu
 
-<img class="ui medium left floated rounded image" src="../images/techfolio-3.png">
-<img class="ui medium right floated rounded image" src="../images/techfolio-4.png">
+<img class="ui medium floated rounded image" src="../images/techfolio-3.png">
+<img class="ui medium floated rounded image" src="../images/techfolio-4.png">
 
 I first needed to find the config menu, which ended up being placed in its own "ConfigSubMenu.js" file. Then, I added all the necessary pieces and functions to add a new option to the menu. This was the easier part. I did have some trouble, howver, with writing the actual option functionality. I used the same moment.js functionality from Problem 2, but I needed to figure out how to create the dialog window. I looked at the codebase and found I could use dialog.showMessageBox() to do what I needed.
 
