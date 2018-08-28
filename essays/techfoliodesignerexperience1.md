@@ -21,6 +21,7 @@ Coming into development, I knew absolutely nothing about React, and was somewhat
 ### Change background color of Splash Page
 
 Picture 1 here.
+<img class="ui medium right floated rounded image" src="../images/techfolio-1.png">
 This was fairly simple, it just involved changing the "body" tag of the SplashPage.html file.
   
 ### Add Last Modified timestamp to Splash Page
