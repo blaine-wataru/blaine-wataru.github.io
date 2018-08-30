@@ -12,7 +12,6 @@ labels:
 
 ## Introduction
 
-Reload5
 I recently started developing for Techfolio Designer, and was assigned to tackle this [issue](https://github.com/techfolios/techfoliodesigner/issues/22) (along with my classmates) for my ICS 491 class. In this essay, I'll be documenting my experiences with solving the given problems.
 
 ## How I solved the problems
