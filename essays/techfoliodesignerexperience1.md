@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Getting Started with Developing for Techfolio Designer"
-date: 2018-08-27
+date: 2018-08-30
 labels:
   - Techfolio Designer
   - Experience
@@ -57,6 +57,11 @@ In the end, the bug happened to be a typo with my code. I was saving the informa
 <img class="ui rounded image" src="../images/techfolio-7.png">
 
 I had the most trouble solving this problem. My professor suggested to use an NPM YAML front-matter parser, which I did. However, I found that the JSON created ended up automatically converting the information in the Date field from YYYY-MM-DD to standard date format. This meant I had to regex to check for standard date format instead of YYYY-MM-DD format. However, I think this is OK as the parser will only convert to standard date format if the original date is in YYYY-MM-DD format. I then used the node-notifier package to create notifications, as I found the dialog.showMessageBox() functionality to not work correctly with a seperate Browser Window (such as the one created by the editor). 
+
+<img class="ui rounded image" src="../images/techfolio-8.png">
+
+However, after further investigation, and with help from my professor, I found that to import the dialog class in this case, I had to use the line "const { dialog } = require('electron').remote;" which allowed me to use the dialog box as shown.
+
 
 ## Conclusions
 
