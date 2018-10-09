@@ -30,5 +30,5 @@ My thoughts in detail can be read [here](https://blaine-wataru.github.io/essays/
 
 <div class="ui rounded images">
   <img class="ui image" src="../images/techfoliodesigner2.png">
-  <img class="ui image" src="../images/techfoliodesigner3.png">
+  <img class="ui image" src="../images/techfoliodesigner4.png">
 </div>
