@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landingpageM2.png
+image: images/UHGroupings1.png
 title: UH Groupings API
 permalink: projects/uhgroupings
 date: 2018
