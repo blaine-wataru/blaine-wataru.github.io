@@ -27,5 +27,10 @@ I worked (and am still working) on one of UH Manoa's ITS department's web devlop
 - Implemented bug fixes and testing to ensure working code.
 - Miscellaneous tasks involving maintenance of the UH Groupings API and UI backend.
 
+## Lessons Learned
+
+From working on UH Groupings so far, I have learned how a professional software development team functions. I learned how work is divided amongst a professional team, and how a team collaborates from weekly meetings. I was able to apply things I learned from my classes, such as my understanding of TCP/IP, my coding ability, and the power of Stack Overflow and Google. I'm somewhat joking, but a lot of times it was on me to learn how to do something, either by asking a team member for help, looking online, and being able to understand what I found (such as raw documentation, tutorials, or Stack Overflow results). 
+I have also learned the importance of pushing and maintaining good code that isn't only for a class project and then forgotten about. The code I write for UH Groupings will have to be future-proof and easily understandable and maintainable by not only my coworkers and bosses, but also future team members who may not be able to ask me to clarify how any of the code functions once I am gone. 
+
 
 
