@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/techfoliodesigner1.png
-title: UH Groupings API
+title: Techfolio Designer
 permalink: projects/techfoliodesigner
 date: 2018
 labels:
