@@ -13,6 +13,8 @@ labels:
   - API
 summary: Worked professionally for UH Manoa's ITS Department on the API of a web app called UH Groupings used by the university.
 ---
+
+ <img class="ui image" src="../images/UHGroupings1.png">
 ## Introduction
 
 The UI can be viewed [here](https://github.com/uhawaii-system-its-ti-iam/uhgroupings) and the API [here](https://github.com/uhawaii-system-its-ti-iam/uh-groupings-api).
