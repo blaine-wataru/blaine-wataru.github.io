@@ -15,7 +15,7 @@ labels:
 summary: My team developed a web app called CampusBeats to help musicians at UH Manoa connect.
 ---
 
-## Introduction
+## Introductions
 
 You can view our project page [here](https://campusbeats.github.io/).
 
