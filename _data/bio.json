@@ -38,7 +38,9 @@
     {
       "name": "API Development",
       "keywords": [
-        "REST"  
+        "REST",
+        "Spring",
+        "Swagger"
       ]
     },
     {
@@ -77,7 +79,7 @@
         "Linux/Unix",
         "Git/GitHub"
       ]
-    }
+    },
   ],
   "education": [
     {
