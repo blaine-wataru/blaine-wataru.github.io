@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "Blaine Wataru",
         "url": "https://www.linkedin.com/in/blaine-wataru-475751146/"
-      },
+      }
     ]
   },
   "interests": [
@@ -51,7 +51,7 @@
         "3DS",
         "Switch"
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -79,7 +79,7 @@
         "Linux/Unix",
         "Git/GitHub"
       ]
-    },
+    }
   ],
   "education": [
     {
