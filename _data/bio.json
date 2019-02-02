@@ -24,25 +24,15 @@
         "network": "linkedin",
         "username": "Blaine Wataru",
         "url": "https://www.linkedin.com/in/blaine-wataru-475751146/"
+      },
+      {
+        "network": "abc",
+        "username": "def",
+        "url": "website"
       }
     ]
   },
   "interests": [
-    {
-      "name": "Software Development",
-      "keywords": [
-        "Java",
-        "JavaScript"
-      ]
-    },
-    {
-      "name": "API Development",
-      "keywords": [
-        "REST",
-        "Spring",
-        "Swagger"
-      ]
-    },
     {
       "name": "Video Games",
       "keywords": [
@@ -51,31 +41,45 @@
         "3DS",
         "Switch"
       ]
+    },
+    {
+      "name": "guitar",
+      "keywords": [
+        "music",
+        "band"
+      ]
+    },
+    {
+      "name": "Japan",
+      "keywords": [
+        "history",
+        "media",
+        "Japanese",
+        "culture"
+      ]
+    },
+    {
+      "name": "Weightlifting",
+      "keywords": [
+        "gym",
+        "training"
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages and Frameworks",
       "keywords": [
         "C",
+        "C++",
         "Java",
-        "HTML/CSS",
-        "JavaScript",
-        "x86 Assmebly"
+        "HTML"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Toolsets/OS",
       "keywords": [
-        "Spring",
-        "React",
-        "Twitter Bootstrap",
-        "REST"
-        ]
-    },
-    {
-      "name": "Miscellaneous",
-      "keywords": [
+        "Mac OS X",
         "Linux/Unix",
         "Git/GitHub"
       ]
@@ -88,7 +92,7 @@
       "studyType": "B.S.",
       "startDate": "2013-08-25",
       "endDate": "Present",
-      "gpa": "3.82",
+      "gpa": "",
       "courses": "Transcript available upon request."
     }
   ],
