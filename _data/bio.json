@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "Blaine Wataru",
         "url": "https://www.linkedin.com/in/blaine-wataru-475751146/"
+      },
+      {
+        "network": "abc",
+        "username": "def",
+        "url": "website"
       }
     ]
   },
@@ -38,51 +43,43 @@
       ]
     },
     {
-      "name": "Guitar",
+      "name": "guitar",
       "keywords": [
         "music",
         "band"
       ]
     },
     {
-      "name": "Software Development",
+      "name": "Japan",
       "keywords": [
-        "Java",
-        "Object Oriented"
+        "history",
+        "media",
+        "Japanese",
+        "culture"
       ]
     },
     {
-      "name": "API Development",
+      "name": "Weightlifting",
       "keywords": [
-        "REST",
-        "Spring",
-        "Swagger"
+        "gym",
+        "training"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages and Frameworks",
       "keywords": [
         "C",
+        "C++",
         "Java",
-        "HTML/CSS",
-        "JavaScript",
-        "x86 Assembly"
+        "HTML"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Toolsets/OS",
       "keywords": [
-        "Spring",
-        "REST",
-        "React",
-        "Twitter Bootstrap"
-      ]
-    },
-    {
-      "name": "Miscellaneous",
-      "keywords": [
+        "Mac OS X",
         "Linux/Unix",
         "Git/GitHub"
       ]
