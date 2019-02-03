@@ -25,22 +25,14 @@
         "username": "Blaine Wataru",
         "url": "https://www.linkedin.com/in/blaine-wataru-475751146/"
       },
+      {
+        "network": "abc",
+        "username": "def",
+        "url": "website"
+      }
     ]
   },
   "interests": [
-    {
-      "name": "Software Development",
-      "keywords": [
-        "Java",
-        "JavaScript"
-      ]
-    },
-    {
-      "name": "API Development",
-      "keywords": [
-        "REST"  
-      ]
-    },
     {
       "name": "Video Games",
       "keywords": [
@@ -50,29 +42,44 @@
         "Switch"
       ]
     },
-  ],
-  "skills": [
     {
-      "name": "Languages",
+      "name": "guitar",
       "keywords": [
-        "C",
-        "Java",
-        "HTML/CSS",
-        "JavaScript",
-        "x86 Assmebly"
+        "music",
+        "band"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Japan",
       "keywords": [
-        "Spring",
-        "React",
-        "Twitter Bootstrap",
-        "REST"
-    }
+        "history",
+        "media",
+        "Japanese",
+        "culture"
+      ]
+    },
     {
-      "name": "Miscellaneous",
+      "name": "Weightlifting",
       "keywords": [
+        "gym",
+        "training"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [
+        "Mac OS X",
         "Linux/Unix",
         "Git/GitHub"
       ]
